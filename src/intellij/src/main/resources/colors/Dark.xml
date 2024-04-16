@@ -933,6 +933,11 @@
         <option name="FOREGROUND" value="b7e66e" />
       </value>
     </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="92d923" />
+      </value>
+    </option>
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="ffd866" />
